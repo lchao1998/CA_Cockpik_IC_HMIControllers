@@ -1,0 +1,2 @@
+# CA_Cockpik_IC_HMIControllers
+一个QT实现的仪表逻辑控制层
